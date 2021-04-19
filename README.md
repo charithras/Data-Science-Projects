@@ -1,2 +1,2 @@
 # Data-Science-Projects
-This contains the solution of the assignments and case studies
+This contains the solution for all the assignments and case studies
